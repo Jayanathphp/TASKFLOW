@@ -27,22 +27,22 @@ TaskFlow is a modern, containerized full-stack web application designed for effi
 ## 🛠️ Technology Stack
 
 ### 🔹 Frontend (User Interface)
-*   ![React](https://shields.io) **React.js** – Component-driven interface library.
-*   ![Vite](https://shields.io) **Vite** – Next-generation, ultra-fast frontend tooling and bundler.
-*   ![HTML5](https://shields.io) ![CSS3](https://shields.io) **HTML5 & CSS3** – Standard markup and custom UI variables.
-*   ![Nginx](https://shields.io) **Nginx** – High-performance production server used to distribute static assets.
+*    **React.js** – Component-driven interface library.
+*    **Vite** – Next-generation, ultra-fast frontend tooling and bundler.
+*    **HTML5 & CSS3** – Standard markup and custom UI variables.
+*    **Nginx** – High-performance production server used to distribute static assets.
 
 ### 🔹 Backend (API & Logic)
-*   ![Node.js](https://shields.io) **Node.js** – Server-side JavaScript runtime engine.
-*   ![Express](https://shields.io) **Express.js** – Minimalist web framework for creating RESTful API endpoints.
+*    **Node.js** – Server-side JavaScript runtime engine.
+*    **Express.js** – Minimalist web framework for creating RESTful API endpoints.
 *   **Mongoose (ODM)** – Object Data Modeling library used to structure database queries safely.
 
 ### 🔹 Database (Storage)
-*   ![MongoDB](https://shields.io) **MongoDB** – Flexible, document-based NoSQL database engine.
+*  **MongoDB** – Flexible, document-based NoSQL database engine.
 
 ### 🔹 DevOps & Infrastructure (CI/CD)
-*   ![Docker](https://shields.io) **Docker & Docker Compose** – Container blueprints and multi-service environment orchestrator.
-*   ![GitHub Actions](https://shields.io) **GitHub Actions** – Automated server runners for continuous pipeline execution.
+*    **Docker & Docker Compose** – Container blueprints and multi-service environment orchestrator.
+*    **GitHub Actions** – Automated server runners for continuous pipeline execution.
 *   **Docker Hub** – Cloud image registry hosting final distribution artifacts.
 *   **SSH Protocol** – Encrypted remote connection framework powering automated deployment commands.
 
